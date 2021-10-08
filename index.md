@@ -21,6 +21,9 @@ know how to use of bookmarks and search agents.
 > 1. Learners need a proper internet connection.
 >
 > 2. There is no need for pre installations.
+>
+> 3. **Creating LIVIVO account or make it part of the lesson as episode?**
+
 {: .prereq}
 
 {% include links.md %}
