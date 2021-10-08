@@ -12,10 +12,6 @@
 All Software, Data, and Library Carpentry instructional material is made available under the [Creative Commons Attribution
 license](https://github.com/LibraryCarpentry/lc-wikidata/blob/gh-pages/LICENSE.md).
 
-## Contributing
-
-There are many ways to discuss and contribute to Library Carpentry lessons. Visit the lesson [discussion page](https://librarycarpentry.org/lc-wikidata/discuss/index.html) to learn more. Also see [Contributing](https://github.com/LibraryCarpentry/lc-wikidata/blob/gh-pages/CONTRIBUTING.md).
-
 ## Code of Conduct
 
 All participants should agree to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
