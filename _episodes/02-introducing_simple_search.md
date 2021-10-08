@@ -14,3 +14,9 @@ keypoints:
 - "search bar"
 - "filter options"
 ---
+
+## First Query
+
+![Type Query](../fig/02-01-type_query.png)
+![LIVIVO results](../fig/02-02-query_results.png)
+![Entry Details](../fig/02-03-entry_details.png)
