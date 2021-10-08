@@ -1,9 +1,9 @@
-# Maintainers Library Carpentry - LIVIVO Workshop
+# Maintainers - LIVIVO Workshop
 
 - [Konrad Förstner](https://github.com/konrad)
 - [Rabea Müller](https://github.com/RabeaMue)  
 
-## Library Carpentry
+## Based on Library Carpentry
 
 [Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
 
