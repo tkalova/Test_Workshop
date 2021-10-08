@@ -8,8 +8,9 @@ questions:
 - "What is semantic search technology used for LIVIVO?"
 objectives:
 - "Feel comfortable describing LIVIVO to colleagues."
-- " "
 keypoints:
+- "LIVIVO search technology"
+- "LIVIVO interface"
 
 ---
 
