@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-This Library Carpentry lesson introduces librarians to LIVIVO.
+This Workshop introduces librarians to LIVIVO.
 At the conclusion of the lesson you will: know what the LIVIO interface looks like;
 know how to search in LIVIVO for simple/advanced search; 
 know how to use of bookmarks and search agents.
