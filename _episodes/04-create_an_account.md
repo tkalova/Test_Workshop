@@ -1,5 +1,5 @@
 ---
-title: "Create an account in LIVIVO
+title: "Create an account in LIVIVO"
 teaching: 30
 exercises: 0
 questions:
@@ -12,4 +12,3 @@ objectives:
 keypoints:
 - "Live Coding"
 ---
-
