@@ -33,7 +33,7 @@ LIVIVO uses an index-based search engine featuring specially developed search te
 ![LIVIVO_Main_Page](../fig/LIVIVO_Main_Page.png)
 
 First thing you can do is switch between the german and english interface by clicking "zur deutschen Oberfläche" or "switch to English language". To the right of the language setting we see the login function of LIVIVO. We will come back to this later when we create an account.  
-At the bottom of the page we see a World Cloud, which is built from the most searched terms. In addition, LIVIVO points us to a special LIVIVO COVID-19 collection that we can search alongside the overall LIVIVO collection.  
+At the bottom of the page we see a Word Cloud, which is built from the most searched terms. In addition, LIVIVO points us to a special LIVIVO COVID-19 collection that we can search alongside the overall LIVIVO collection.  
 
 Very present we see the search slot of LIVIVO, where we can fire our search queries and have the possibility to switch between a simple and advanced search.  
 
