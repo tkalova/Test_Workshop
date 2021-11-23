@@ -27,4 +27,4 @@ FAIR RDM (Research Data Management) means ...
   - Start by going to the [LIVIVO Main Page](https://www.livivo.de/app) by typing "www.livivo.de" into your browser. 
   - This is what you should see:
 
-![LIVIVO_Main_Page](../fig/LIVIVO_Main_Page.png)
+![Test_Image](../fig/Test_Image.pdf)
