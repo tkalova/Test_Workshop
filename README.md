@@ -1,7 +1,6 @@
 # Maintainers - LIVIVO Workshop
 
-- [Konrad Förstner](https://github.com/konrad)
-- [Rabea Müller](https://github.com/RabeaMue)  
+- [Tereza Kalová](https://github.com/tkalova)
 
 ## Based on Library Carpentry
 
